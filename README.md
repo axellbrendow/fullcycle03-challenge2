@@ -6,6 +6,14 @@ Simple hello application in Go using Docker and Buffalo framework.
 
 [Docker Image](https://hub.docker.com/r/axell13/fullcycle03-challenge2)
 
+## How to use ?
+
+```
+sudo docker container run -p 3000:3000 --name fcc2 axell13/fullcycle03-challenge2
+
+# access http://localhost:3000/hello
+```
+
 ## Welcome to Buffalo!
 
 Thank you for choosing Buffalo for your web development needs.
